@@ -30,46 +30,11 @@ Currently working on:
 
 ---
 
-## 🔥 Featured Projects
-
-🚔 **FiveM MDT System**
-Police database system for roleplay servers.
-
-⛽ **Advanced Fuel Script**
-Realistic fuel system with jerry can & gas stations.
-
-🎮 **Unity Puzzle Game**
-Mobile puzzle game project.
-
-🤖 **AI Video Generator**
-Automated short video generator for social media.
-
----
-
-## 📊 GitHub Stats
-
-![Yusuf's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME\&show_icons=true\&theme=radical)
-
----
-
-## 📈 Most Used Languages
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME\&layout=compact\&theme=radical)
-
----
-
-## 🧑‍💻 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=USERNAME\&theme=react-dark)
-
----
-
 ## 🌍 Connect With Me
 
-💬 Discord: yourdiscord
-🛒 Tebex Store: yourstorelink
-📺 YouTube: yourchannel
+💬 Discord: darlydixon.
+🛒 Tebex Store: https://mn-development.tebex.io/
+📺 Linkedin : https://www.linkedin.com/in/yusuf-co%C5%9Fkun-8904b3270/
 
 ---
 
-![](https://komarev.com/ghpvc/?username=USERNAME\&color=red)
