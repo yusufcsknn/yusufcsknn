@@ -1,40 +1,114 @@
-# 👋 Hey, I'm Yusuf
+<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF2D55\&size=35\&center=true\&vCenter=true\&width=800\&lines=FiveM+Developer;Game+Developer;AI+Automation+Builder;Creating+Cool+Projects)](https://git.io/typing-svg)
+# ⚡ Yusuf Coşkun
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&color=FF003C&center=true&vCenter=true&width=900&lines=FiveM+Developer;Game+Developer;AI+Automation+Builder;Building+Cool+Stuff+On+The+Internet" />
 
-## 🚀 About Me
-
-💻 FiveM Script Developer
-🎮 Game Developer
-🤖 AI Automation Projects
-⚡ Building systems, tools and scripts
-
-Currently working on:
-
-* 🚔 FiveM server systems
-* ⛽ Advanced FiveM scripts
-* 🎮 Mobile & indie game development
-* 🤖 AI content automation tools
+</div>
 
 ---
 
-## 🧠 Tech Stack
+<div align="center">
 
-![Lua](https://img.shields.io/badge/Lua-0000FF?style=for-the-badge\&logo=lua\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge\&logo=unity\&logoColor=white)
+### 🧑‍💻 Developer | FiveM Scripts | Game Development | AI Tools
+
+</div>
 
 ---
 
-## 🌍 Connect With Me
+# 🚀 About Me
 
-💬 Discord: darlydixon.
-🛒 Tebex Store: https://mn-development.tebex.io/
-📺 Linkedin : https://www.linkedin.com/in/yusuf-co%C5%9Fkun-8904b3270/
+```txt
+Name: Yusuf
+Role: Developer
+Focus: FiveM • Game Dev • Automation
+Goal: Build cool systems and digital products
+```
+
+Currently building:
+
+* 🚔 Advanced FiveM Scripts
+* 🎮 Indie Game Projects
+* 🤖 AI Automation Tools
+* ⚙️ Server Systems
 
 ---
 
+# ⚡ Tech Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=lua,js,python,nodejs,unity,git,github,vscode" />
+
+</p>
+
+---
+
+# 🧠 Projects I'm Working On
+
+| Project          | Description              |
+| ---------------- | ------------------------ |
+| 🚔 FiveM MDT     | Police database system   |
+| ⛽ Fuel Script    | Realistic fuel system    |
+| 🎮 Puzzle Game   | Unity mobile puzzle game |
+| 🤖 AI Video Tool | AI shorts generator      |
+
+---
+
+# 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true" />
+
+</div>
+
+---
+
+# 🔥 Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true"/>
+
+---
+
+# 🐍 Contribution Snake
+
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="#">
+<img src="https://img.shields.io/badge/Discord-Contact%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Tebex-Store-FF0000?style=for-the-badge"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+![](https://komarev.com/ghpvc/?username=USERNAME\&color=ff003c\&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ "Build cool things. Ship them. Repeat."
+
+</div>
