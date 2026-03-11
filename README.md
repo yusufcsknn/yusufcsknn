@@ -44,35 +44,6 @@ Currently building:
 
 ---
 
-# 🧠 Projects I'm Working On
-
-| Project          | Description              |
-| ---------------- | ------------------------ |
-| 🚔 FiveM MDT     | Police database system   |
-| ⛽ Fuel Script    | Realistic fuel system    |
-| 🎮 Puzzle Game   | Unity mobile puzzle game |
-| 🤖 AI Video Tool | AI shorts generator      |
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=radical&hide_border=true" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=radical&hide_border=true" />
-
-</div>
-
----
-
-# 🔥 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=react-dark&hide_border=true"/>
-
----
-
 # 🐍 Contribution Snake
 
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
@@ -83,16 +54,12 @@ Currently building:
 
 <p align="center">
 
-<a href="#">
+<a href="darlydixon.">
 <img src="https://img.shields.io/badge/Discord-Contact%20Me-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
 
-<a href="#">
+<a href="https://mn-development.tebex.io/">
 <img src="https://img.shields.io/badge/Tebex-Store-FF0000?style=for-the-badge"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 </a>
 
 </p>
